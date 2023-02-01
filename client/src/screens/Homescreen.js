@@ -93,8 +93,8 @@ function Homescreen() {
   }
 
   return (
-    <div className="">
-      <div className="row mt-5 bs justify-content-center align-items-center container mx-auto">
+    <div className="container mx-auto">
+      <div className="row mt-5 bs justify-content-center align-items-center ">
         <div className="col-md-3 pb-0 mb-2 mb-md-0">
           <RangePicker className='mt-0' format="DD-MM-YYYY" onChange={filterByDate} />
         </div>

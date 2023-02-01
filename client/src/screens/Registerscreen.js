@@ -43,7 +43,7 @@ function Registerscreen() {
   }
 
   return (
-    <div>
+    <div className='container'>
       {loading && (<Loader />)}
       {error && (<Error />)}
         <div className="row justify-content-center mt-5">
