@@ -11,7 +11,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg">
       <div className="container">
         <a class="navbar-brand" href="/home">
-          Book Rooms
+          Wow Stays
         </a>
         <button
           class="navbar-toggler"
